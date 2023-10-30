@@ -7,7 +7,7 @@ The repository contains code to train neural network models to predict type 1 di
 The goal is to identify microbial signatures associated with type 1 diabetes status that can allow accurate prediction of disease risk from sequence data alone.
 
 ### Data
-The dataset used is from a published study of 16S rRNA sequencing on stool samples from 16,344 individuals. It contains relative abundance profiles of 256 bacterial OTUs (operational taxonomic units) in each sample.
+The dataset used is from a published study of 16S rRNA sequencing on samples from 16,344 individuals. It contains relative abundance profiles of 256 bacterial OTUs (operational taxonomic units) in each sample.
 
 Samples are labeled as either 'control' (no diabetes) or 'case' (type 1 diabetes). The dataset is split 80/20 into training and validation sets.
 
